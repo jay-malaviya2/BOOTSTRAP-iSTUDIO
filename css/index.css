@@ -204,7 +204,7 @@
 
 .sec-4-right-img-div-1 {
     width: 100%;
-    height: 220px;
+    height: 250px;
     background-size: cover;
 
 }
@@ -583,10 +583,6 @@
         width: 330px;
         margin-bottom: 40px;
     }
-
-    /* .sec-4-right-img-div-1{
-        width: 180px;
-    } */
 
     .sec-4-right-img-div-1:hover {
         transform: scale(1.5);
