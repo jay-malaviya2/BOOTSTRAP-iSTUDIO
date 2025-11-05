@@ -206,13 +206,11 @@
     width: 100%;
     height: 250px;
     background-size: cover;
-
 }
 
 .sec-4-right-img-div-1:hover {
     transform: scale(1.5);
 }
-
 
 .sec-5 {
     width: 100%;
